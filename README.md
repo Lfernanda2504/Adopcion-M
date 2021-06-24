@@ -39,4 +39,4 @@ Puedes verlo aquí: <link_para_ver>
 
 ## 🌟 Autor
 
-* **<Luisa Fda Garcia>**  - [@<username>](https://github.com/<username>
+* **<Luisa Fda Garcia>**  - [@lfernanda2504>](https://github.com/lfernanda2504
